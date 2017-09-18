@@ -1,4 +1,5 @@
 # Python for Data Analytics (1)
+*Written by: Michael, Core Team 17*
 
 ## Welcome Message
 Welcome my dear data associates. You would be embarking into the wonderful life of python! We hope that by the end of this course, you would be able to have achieve the following
@@ -13,12 +14,10 @@ Welcome my dear data associates. You would be embarking into the wonderful life 
 - [ ] Looping (For, While). 
 - [ ] Creating you own Functions
 
-
 ## Before we get started
-Make sure that you have installed Anaconda, or python. If you haven't please follow [this link](../01 - Basics of Analytics/anaconda-ipython.md) to get into the instructions for how to download Anaconda. Also note that for this course, we would primarily be using Spyder. However, this and next week would probably be the only time in which you guys would be using Spyder, and we would move into a much more "data-analytics" friendly development enviroment. 
+Make sure that you have installed Anaconda, or python. If you haven't please follow [this link](https://github.com/smubia/dap-2017/blob/master/Sem%201%20-%20Data%20Analytics/01%20-%20Basics%20of%20Analytics/anaconda-ipython.md) to get into the instructions for how to download Anaconda. Also note that for this course, we would primarily be using Spyder. However, this and next week would probably be the only time in which you guys would be using Spyder, and we would move into a much more "data-analytics" friendly development enviroment. 
 
 **For those who just started programming,** I would like to tell you that the journey is going to be a tough, but believe me, it is going to be quite rewarding. Do note that this week would be very heavy for you guys . If you are struggling, may I suggest that you do the following - 1. State in the group that you wish to have a Python enrichment lesson over the weekends, 2. Request help from someone in the group, 3. Learn by yourself over the weekends.
-
 
 **For people who think you already know python**, please use *this link (not released yet)* for a Python Checklist, if you able to complete everything without the need of googling, you may try either the mini projects or you can try more advanced topics of Data Analytics. But **PLEASE don’t neglect your group if they are able to understand or not occasionally.**
 
@@ -38,6 +37,11 @@ Make sure that you have installed Anaconda, or python. If you haven't please fol
 
 # Python Basics
 For this week, we would be primarily using resources from 3 places, TheNewBoston, ProgrammingKnowledge and [Automating the Boring Stuff with Python](https://drive.google.com/open?id=0B4co3D7kCi9oQ1NyR0I1LTFGVVE). I would suggest that **the best resource for you to use, is actually ProgrammingKnowledge if you are relatively new to programming. **
+
+## Learning Spyder ##
+Before writing any code with Python, you first need to know how to use Spyder. You guys should know how to open up Spyder. But in case you forgot, go and run "Anaconda Navigator" and then run "Spyder". Go and view this simple video to understand what you need to know about Spyder and Python.
+
+:tv: https://youtu.be/J5GevIHNctM?t=10m23s
 
 ## Basic Arithemtic Functions in Python
 
