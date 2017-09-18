@@ -41,6 +41,7 @@ For this week, we would be primarily using resources from 3 places, TheNewBoston
 ## Learning Spyder ##
 Before writing any code with Python, you first need to know how to use Spyder. You guys should know how to open up Spyder. But in case you forgot, go and run "Anaconda Navigator" and then run "Spyder". Go and view this simple video to understand what you need to know about Spyder and Python.
 
+***Take note:*** For you to follow this tutorial, you need to use <font color="red">*print ("Hello, World")*</font> instead of <font color="red">*print "Hello, World"* </font><br/>
 :tv: https://youtu.be/J5GevIHNctM?t=10m23s
 
 ## Basic Arithemtic Functions in Python
