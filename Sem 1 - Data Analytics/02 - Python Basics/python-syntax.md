@@ -153,11 +153,29 @@ In this mini project, you would be guessing a number between 1 to 20.
 2. The computer waits for an input. (you may need to google how to input values using google)
 3. If the input matches the random number, the program stops.
 
- ![Output for Guess the Number](./pics/guessthenumber.png)
+Output |
+------------ |
+![Output for Guess the Number](./pics/guessthenumber.png) |
+ 
 
 **Concepts used: While loops, if-else statements, random number generation, value input.**
 <br/><br/>
-## Project 2 (Moderate) - Rock, Paper, Scissors
+
+## Project 2 (Easy) - Mutliples of 5 & 7
+In this mini project, Write a program which will find all such numbers which are divisible by 7 but are not a multiple of 5,
+between 2000 and 3200 (both included). The numbers obtained should be printed in a comma-separated sequence on a single line.
+
+1. Generate a random number between 1 to 20. (You may need to google how to generate random numbers using google)
+2. The computer waits for an input. (you may need to google how to input values using google)
+3. If the input matches the random number, the program stops.
+
+Output |
+------------ |
+ ![Output for Multiples of 5 & 7](./pics/multiples57.png) |
+
+**Concepts used: While loops, if-else statements, random number generation, value input.**
+<br/><br/>
+## Project 3 (Easy) - Rock, Paper, Scissors
 In this mini project, you would be playing rock, paper and scissors with a computer
 1. The computer waits for an input. (you may need to google how to input values using google)
 2. You have to choose between "Rock", "Paper" or "Scissors"
@@ -165,11 +183,14 @@ In this mini project, you would be playing rock, paper and scissors with a compu
 4. Generate the computer generate a random number between 1 - 3. Where 1 = Rock, 2 = Paper and 3 = Scissors.
 5. Return the desired output, if you lose or tie, continue playing. Only if you win, then you stop playing.
 
- ![Output for scissors paper stone](./pics/scissorspaperstone.png)
+Output |
+------------ |
+ ![Output for scissors paper stone](./pics/scissorspaperstone.png) |
+
 
 **Concepts used: While loops, if-else statements, random number generation, value input, Error Validation.**
 <br/><br/>
-## Project 3 (Moderate) - Tic Tac Toe
+## Project 4 (Moderate) - Tic Tac Toe
 In this mini project, you would be playing Tic Tac Toe with 2 players. Each player will take turns to play.
 1. When the program starts, it asks you to select a number from 1 - 9, where each value corresponds to a number on the tic-tac-toe board.
 2. After you select where you want to place the first piece, you give to your friend to select his piece.
@@ -180,7 +201,7 @@ Output 1 | Output 2
  ![TicTacToe1](./pics/tictaetoe1.jpg) | ![TicTacToe2](./pics/tictaetoe2.png) 
 
 <br/><br/>
-## Project 4 (Hard) - BlackJack
+## Project 5 (Hard) - BlackJack
 In this mini project, you would be playing Blackjack with a computer. This thing took me 2 hours to complete, and is **highly not recommended** for beginners
 1. At the start, 2 cards are drawn at random
 2. You are then given the option to draw or to stay.
