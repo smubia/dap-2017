@@ -83,7 +83,7 @@ Before writing any code with Python, you first need to know how to use Spyder. Y
 
 ## Lists (basics)
 **ProgrammingKnowledge**<br/>
-:tv: https://www.youtube.com/watch?v=dV9K6QMrIn4&list=PLS1QulWo1RIaJECMeUT4LFwJ-ghgoSH6n&index=7
+:tv: https://www.youtube.com/watch?v=dV9K6QMrIn4&list=PLS1QulWo1RIaJECMeUT4LFwJ-ghgoSH6n&index=7<br/>
 :tv: https://www.youtube.com/watch?v=fDoYwL90WUg&list=PLS1QulWo1RIaJECMeUT4LFwJ-ghgoSH6n&index=8
 
 
@@ -132,6 +132,8 @@ Before writing any code with Python, you first need to know how to use Spyder. Y
 ## Python Checklist
 To check your understanding of python, I have created a [Python checklist in Juypter Notebook.](https://drive.google.com/open?id=0B4co3D7kCi9oX3I0dk1vZU0xcVk) (please use you SMU google account). If you are able to complete the checklist, you are ready to move onto the mini projects.
 
+**To run this, you need to open Jupyter Notebook to open up the file**
+
 
 ## Additional Readings (Very Indepth)
 :page_with_curl: https://www.tutorialspoint.com/python/python_basic_syntax.htm<br/>
@@ -151,7 +153,7 @@ In this mini project, you would be guessing a number between 1 to 20.
 2. The computer waits for an input. (you may need to google how to input values using google)
 3. If the input matches the random number, the program stops.
 
-![Output for Guess the Number](./pics/Output Guess the number.png)
+ ![Output for Guess the Number](./pics/guessthenumber.png)
 
 **Concepts used: While loops, if-else statements, random number generation, value input.**
 <br/><br/>
@@ -163,7 +165,7 @@ In this mini project, you would be playing rock, paper and scissors with a compu
 4. Generate the computer generate a random number between 1 - 3. Where 1 = Rock, 2 = Paper and 3 = Scissors.
 5. Return the desired output, if you lose or tie, continue playing. Only if you win, then you stop playing.
 
-![Output for scissors paper stone](./pics/Output scissors paper stone.png)
+ ![Output for scissors paper stone](./pics/scissorspaperstone.png)
 
 **Concepts used: While loops, if-else statements, random number generation, value input, Error Validation.**
 <br/><br/>
@@ -175,7 +177,7 @@ In this mini project, you would be playing Tic Tac Toe with 2 players. Each play
 
 Output 1 | Output 2 
 ------------ | ------------- 
-![TicTacToe1](./pics/tictaetoe1.jpg) | ![TicTacToe2](./pics/tictaetoe2.png) 
+ ![TicTacToe1](./pics/tictaetoe1.jpg) | ![TicTacToe2](./pics/tictaetoe2.png) 
 
 <br/><br/>
 ## Project 4 (Hard) - BlackJack
