@@ -32,19 +32,8 @@ I hope you have fun with the first python basic lesson. If you haven't complete 
 
 ---
 
-## Libraries and Modules
-Do note that for you to install libraries inside of Anaconda, you are to do the following.
-### First Methods
-- img 1 (open up anaconda navigator)
-- img 2 (search for it)
-- img 3 (install it)
-
-### Second Method (only if the library in the first method doesn't exist)
-- img 1 (find the library online)
-- img 2 (installing it using anaconda prompt)
-
 ## Dictionaries
-:tv: https://www.youtube.com/watch?v=RVXIBZvg-W8
+:tv: https://www.youtube.com/watch?v=RVXIBZvg-W8 <br/>
 :tv: https://www.youtube.com/watch?v=YNRc6c0wUA8&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M&index=33
 
 ## Date and Time 
@@ -56,13 +45,13 @@ Do note that for you to install libraries inside of Anaconda, you are to do the 
 :page_with_curl: Date Time Resource. http://strftime.org/ *For a full list of strftime directives*
 
 ## Numpy 
-**APMonitor.com**<br/>
-:tv: https://www.youtube.com/watch?v=mOZ0UCeuRX4 <br/>
-
 **DataCamp**<br/>
 :tv: https://www.youtube.com/watch?v=AGzB7_vsLbE <br/>
 :tv: https://www.youtube.com/watch?v=rnw1qixAv1s <br/>
 :tv: https://www.youtube.com/watch?v=WUZlyG42ko0 <br/>
+
+**APMonitor.com**<br/>
+:tv: https://www.youtube.com/watch?v=mOZ0UCeuRX4 <br/>
 
 ## Pandas Basics
 Pandas is a very powerful library that we would be using in the future for data cleaning. In this set of tutorials would be used to help you understand the basics of Pandas, while in the next lesson we would explore data cleaning!
@@ -97,15 +86,20 @@ File Directory | Jupyter Notebook Output
 ## Additional Readings (Very Indepth)
 :page_with_curl: https://www.tutorialspoint.com/python/python_dictionary.htm<br/>
 :page_with_curl: https://www.tutorialspoint.com/python/python_date_time.htm<br/>
+:page_with_curl: https://docs.scipy.org/doc/numpy/reference/index.html<br/>
+:page_with_curl: https://pandas.pydata.org/pandas-docs/stable/10min.html<br/>
+:page_with_curl: https://pandas.pydata.org/pandas-docs/stable/dsintro.html  <br/>
+:page_with_curl: https://pandas.pydata.org/pandas-docs/stable/text.html  <br/>
+:page_with_curl: https://pandas.pydata.org/pandas-docs/stable/options.html  <br/>
+:page_with_curl: https://pandas.pydata.org/pandas-docs/stable/computation.html  <br/>
+:page_with_curl: https://pandas.pydata.org/pandas-docs/stable/io.html  <br/>
 
 ---
 
 # Test Your Understanding!
-This week, we would be 
 ## Numpy
 
 ## Pandas
-
 
 
 ---
@@ -121,7 +115,7 @@ Web Development is a very important tool that you would be using to display data
 If you are not sure whether to use Django or Flask, I would advice you to use Flask. Since it's is much more easier to learn and you would be able to learn about the basics of Web Development much quicker. 
 
 Flask
-:tv: https://www.youtube.com/watch?v=YNRc6c0wUA8&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M&index=33
+:tv: https://www.youtube.com/watch?v=Lv1fv-HmkQo&list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB
 
 
 Django 
