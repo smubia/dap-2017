@@ -32,7 +32,7 @@ I hope you have fun with the first python basic lesson. If you haven't complete 
 
 ---
 
-## Dictionaries
+## Tuples & Dictionaries
 :tv: https://www.youtube.com/watch?v=RVXIBZvg-W8 <br/>
 :tv: https://www.youtube.com/watch?v=YNRc6c0wUA8&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M&index=33
 
@@ -45,7 +45,7 @@ I hope you have fun with the first python basic lesson. If you haven't complete 
 :page_with_curl: Date Time Resource. http://strftime.org/ *For a full list of strftime directives*
 
 ## Numpy 
-**DataCamp**<br/>
+**DataCamp (recommended)**<br/>
 :tv: https://www.youtube.com/watch?v=AGzB7_vsLbE <br/>
 :tv: https://www.youtube.com/watch?v=rnw1qixAv1s <br/>
 :tv: https://www.youtube.com/watch?v=WUZlyG42ko0 <br/>
@@ -56,15 +56,16 @@ I hope you have fun with the first python basic lesson. If you haven't complete 
 ## Pandas Basics
 Pandas is a very powerful library that we would be using in the future for data cleaning. In this set of tutorials would be used to help you understand the basics of Pandas, while in the next lesson we would explore data cleaning!
 
-**Data School**<br/>
-:tv: https://www.youtube.com/watch?v=5_QXMwezPJE&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=2 <br/>
-:tv: https://www.youtube.com/watch?v=zxqjeyKP2Tk&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=3 <br/>
-:tv: https://www.youtube.com/watch?v=hSrDViyKWVk&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=4 <br/>
-:tv: https://www.youtube.com/watch?v=0uBirYFhizE&index=5&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y <br/>
-:tv: https://www.youtube.com/watch?v=gnUKkS964WQ&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=6 <br/>
-:tv: https://www.youtube.com/watch?v=zY4doF6xSxY&index=7&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y <br/>
-:tv: https://www.youtube.com/watch?v=2AFGPdNn4FM&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=8 <br/>
-:tv: https://www.youtube.com/watch?v=YPItfQ87qjM&index=9&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y <br/>
+**Data School **<br/>
+:tv: *Reading Data in Pandas* https://www.youtube.com/watch?v=5_QXMwezPJE <br/>
+:tv: *Dataframe & Series* https://www.youtube.com/watch?v=zxqjeyKP2Tk <br/>
+:tv: *Data Types* https://www.youtube.com/watch?v=hSrDViyKWVk <br/>
+:tv: *Renaming Columns* https://www.youtube.com/watch?v=0uBirYFhizE <br/>
+:tv: *Removing Columns* https://www.youtube.com/watch?v=gnUKkS964WQ <br/>
+:tv: *Sorting Dataframes* https://www.youtube.com/watch?v=zY4doF6xSxY <br/>
+:tv: *Filter Dataframes* https://www.youtube.com/watch?v=2AFGPdNn4FM <br/>
+:tv: *Filter DataFframes 2* https://www.youtube.com/watch?v=YPItfQ87qjM <br/>
+:tv: *LOC* https://www.youtube.com/watch?v=xvpNA7bC8cs <br/>
 
 ## Pandas Read and Write Files
 In this exercise, I want you to try to use Google to find the answers for this exercise. When you are doing data analytics in the future, you need to know how to read documentations and try to understand how to do certain functions. 
@@ -73,7 +74,8 @@ In the "Pandas Basics" videos, you will realised that he used a website to get h
 1. Download [this file](https://drive.google.com/open?id=0B4co3D7kCi9oSGFFdWd3YkdkdU0)
 2. Create a new Folder in your "AnacondaProjects Folder" called "Datasets"
 3. Place the data into the folder
-3. Using Pandas, try to read the file and print the first 5 rows from the data file.
+4. Using Pandas, try to read the file and print the first 5 rows from the data file.
+5. After you are done with creating a dataframe, write the dataframe into a file called "new_data.csv". *Figure out how to do this using Panda's function.*
 
 ### Output
 
@@ -81,6 +83,8 @@ Output 1 | Output 2
 ------------ | ------------- 
 File Directory | Jupyter Notebook Output
 ![](./pics/pandas1.png) | ![](./pics/pandas2.png) 
+
+
 
 
 ## Additional Readings (Very Indepth)
@@ -97,9 +101,11 @@ File Directory | Jupyter Notebook Output
 ---
 
 # Test Your Understanding!
-## Numpy
+For this lesson, there would not be any mini project, please try to complete both Numpy and Pandas Exercise as they are vital to Data Analytics. THEY ARE YOUR BREAD AND BUTTER.
 
-## Pandas
+[Numpy Exercise](https://drive.google.com/open?id=0B4co3D7kCi9od1lzdjE3Z0Z2SWc)
+
+[Pandas Exercise](https://drive.google.com/open?id=0B4co3D7kCi9oa1g1OWpSOEFZQVU)
 
 
 ---
