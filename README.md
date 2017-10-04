@@ -27,22 +27,6 @@ Labels used:
 ### What is a Notebook?
 A Notebook is a Jupyter notebook that is viewed in the Jupyter nbviewer, to walk readers through code usage. 
 
-## Modules
-- Exploratory Data Analytics (in Python)
-    1. Analytics Basics
-        1. [Introduction to Data Analytics](exploratory-data-analytics-py/1-analytics-basics/intro-to-data-analytics.md)
-        2. [Introduction to Data Visualization](exploratory-data-analytics-py/1-analytics-basics/intro-to-data-visualization.md)
-        3. [Visualization Charts](exploratory-data-analytics-py/1-analytics-basics/visualization-charts.md)
-        4. [Selecting the Correct Charts](exploratory-data-analytics-py/1-analytics-basics/selecting-the-correct-charts.md)
-        5. [Mini Project](exploratory-data-analytics-py/1-analytics-basics/mini-project.md)
-    2. Technical Basics
-        - [Git & Github](exploratory-data-analytics-py/2-technical-basics/git-github.md)
-        - [Anaconda & IPython](exploratory-data-analytics-py/2-technical-basics/anaconda-ipython.md)
-        - [Python Syntax](exploratory-data-analytics-py/2-technical-basics/python-syntax.md)
-    3. BI & Consulting Basics
-    4. Numpy & Pandas
-    5. Data Cleaning
-    6. MatPlotLib & Seaborn
 
 ## Contributing & Style Guide
 ### Heading Styles
