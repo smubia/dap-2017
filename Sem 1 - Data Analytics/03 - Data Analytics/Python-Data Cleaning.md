@@ -57,9 +57,9 @@ For Data Cleaning using Microsoft Excel, I've included various videos on data cl
 
 :tv: **VERY Basic Data Cleaning** - https://www.youtube.com/watch?v=sB0nJlcjFBs (until 6:02) <br/>
 :tv: **Cool Data Cleaning Tricks** - https://www.youtube.com/watch?v=e0TfIbZXPeA <br/>
-:tv: **Data Cleaning in Excel Pt 1** [data](https://drive.google.com/open?id=0B4co3D7kCi9oUG1DYzhPRGptTjQ) - https://www.youtube.com/watch?v=Jt76Q0dVEm4 <br/>
+:tv: **([Data](https://drive.google.com/open?id=0B4co3D7kCi9oUG1DYzhPRGptTjQ)) Data Cleaning in Excel Pt 1** - https://www.youtube.com/watch?v=Jt76Q0dVEm4 <br/>
 :tv: **Data Cleaning in Excel Pt 2**  - https://www.youtube.com/watch?v=WRk9t5yo5Zs <br/>
-:tv: **Vlookup, Merging Datasets, Hlookup** [data](https://drive.google.com/open?id=0B4co3D7kCi9ocENfMkN2N1EyQnc) - https://www.youtube.com/watch?v=CqIY_60GvOs <br/>
+:tv: **([Data](https://drive.google.com/open?id=0B4co3D7kCi9ocENfMkN2N1EyQnc)) Vlookup, Merging Datasets, Hlookup** - https://www.youtube.com/watch?v=CqIY_60GvOs <br/>
 
 ### Mini Project (To check Understanding ###
 
@@ -79,9 +79,8 @@ Below is the list of the things that I have cleaned:
 Do note that the first time cleaning with Python, you will know that it is extremely hard to clean and would want to go back to Excel. But, if you do wish to do data analytics in the future, you need to know that the amount of data that you would be handling is definitely better of using Python/Pands. Companies like Uber store 500TB of data a day. 
 
 ### PIERIAN DATA ###
-**Data input and Output** (Skip SQL)<br>
+**Data input and Output** (Skip SQL, **You don't have to install anything**)<br>
 Outcomes: Read csv, read excel, read HTML<br>
-** You don't have to install anything.<br>
 :tv: https://drive.google.com/open?id=0B4co3D7kCi9oX2l1MEl6a1B3bDA
 
 **DataFrame Pt 1**<br>
@@ -104,11 +103,11 @@ Outcomes: Merging Dataframes, Joining Dataframes and Concatenating Dataframes<br
 Outcomes: Counting occurances, no. of unique values, running a function on all dataframes, sorting values, Pivot tables<br>
 :tv: https://drive.google.com/open?id=0B4co3D7kCi9oQm1vSzczVUcxT0E
 
-**Date & Times** [UFO Data](https://drive.google.com/open?id=0B4co3D7kCi9oN2ltcFNmNzdMTVk)<br>
+**Date & Times** ([UFO Data](https://drive.google.com/open?id=0B4co3D7kCi9oN2ltcFNmNzdMTVk))<br>
 Outcomes: Cleaning Date, Cleaning Time, dealing with Date and Time.<br>
 :tv: https://www.youtube.com/watch?v=yCgJGsg0Xa4
 
-**Creating Dummy Variables** [Titanic Dataset](https://drive.google.com/open?id=0B4co3D7kCi9oWHhXdTNvX1RESGM)<br>
+**Creating Dummy Variables** ([Titanic Dataset](https://drive.google.com/open?id=0B4co3D7kCi9oWHhXdTNvX1RESGM))<br>
 Outcome: Creating dummy variables<br>
 :tv: https://www.youtube.com/watch?v=0s_1IsROgDc
 
