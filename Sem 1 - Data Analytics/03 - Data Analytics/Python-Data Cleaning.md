@@ -55,11 +55,13 @@ If your dataset has any of the following characteristics, then it's better to in
 ## Data Cleaning using Microsoft Excel
 For Data Cleaning using Microsoft Excel, I've included various videos on data cleaning including very basic functions. Feel free to skip topics that you already understand.
 
-:tv: **Basic Data Cleaning** - https://www.youtube.com/watch?v=sB0nJlcjFBs (until 6:02) <br/>
+:tv: **VERY Basic Data Cleaning** - https://www.youtube.com/watch?v=sB0nJlcjFBs (until 6:02) <br/>
 :tv: **Cool Data Cleaning Tricks** - https://www.youtube.com/watch?v=e0TfIbZXPeA <br/>
-:tv: **Data Cleaning in Excel Pt 1** - https://www.youtube.com/watch?v=Jt76Q0dVEm4 <br/>
-:tv: **Data Cleaning in Excel Pt 2** - https://www.youtube.com/watch?v=WRk9t5yo5Zs <br/>
-:tv: **Vlookup, Merging Datasets, Hlookup** - https://www.youtube.com/watch?v=CqIY_60GvOs <br/>
+:tv: **Data Cleaning in Excel Pt 1** [data](https://drive.google.com/open?id=0B4co3D7kCi9oUG1DYzhPRGptTjQ) - https://www.youtube.com/watch?v=Jt76Q0dVEm4 <br/>
+:tv: **Data Cleaning in Excel Pt 2**  - https://www.youtube.com/watch?v=WRk9t5yo5Zs <br/>
+:tv: **Vlookup, Merging Datasets, Hlookup** [data](https://drive.google.com/open?id=0B4co3D7kCi9ocENfMkN2N1EyQnc) - https://www.youtube.com/watch?v=CqIY_60GvOs <br/>
+
+### Mini Project (To check Understanding ###
 
 Once you are done with data cleaning, here is a project for you to do. I have web scrapped my [uber trips data](https://drive.google.com/open?id=0B4co3D7kCi9oVXE0dXpXVF9GZnM), and I would want to analyse it. Inside the file, there is 2 sheets the excel file. One with the raw data, and another with the cleaned data. Using the methods that you learn in this course or other methods that you learnt, clean the data until the raw data looked like the cleaned data sheet. I've highlighted those columns that I added into the file.
 
@@ -106,9 +108,11 @@ Outcomes: Counting occurances, no. of unique values, running a function on all d
 Outcomes: Cleaning Date, Cleaning Time, dealing with Date and Time.<br>
 :tv: https://www.youtube.com/watch?v=yCgJGsg0Xa4
 
-**Creating Dummy Variables**<br>
-Outcome: Creating dummy variables [Titanic Dataset](https://drive.google.com/open?id=0B4co3D7kCi9oWHhXdTNvX1RESGM)<br>
+**Creating Dummy Variables** [Titanic Dataset](https://drive.google.com/open?id=0B4co3D7kCi9oWHhXdTNvX1RESGM)<br>
+Outcome: Creating dummy variables<br>
 :tv: https://www.youtube.com/watch?v=0s_1IsROgDc
+
+### Mini Project (To check Understanding ###
 
 Once you are done with all the videos, do the same thing that you did in [Excel](https://drive.google.com/open?id=0B4co3D7kCi9oT3N1R3BPa083UUE), and try to make it exactly like the desired output. Since it's the first time that you do data cleaning, you may find it extremely hard. Just try your best to do it! 
 
