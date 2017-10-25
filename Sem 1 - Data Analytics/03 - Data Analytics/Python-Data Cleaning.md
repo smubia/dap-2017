@@ -74,44 +74,45 @@ Below is the list of the things that I have cleaned:
 - Calculate the time taken each trip
 
 ## Data Cleaning using Python Pandas
+Do note that the first time cleaning with Python, you will know that it is extremely hard to clean and would want to go back to Excel. But, if you do wish to do data analytics in the future, you need to know that the amount of data that you would be handling is definitely better of using Python/Pands. Companies like Uber store 500TB of data a day. 
 
-Topics
-### BASICS ###
-- Creating a blank DataFrame
-- Adding values to the dataframe
-- importing data from file
-- exporting data into file
-- retriving data from dataframe (slice, dice, select on condition)
-- dropping columns
-- dropping rows
-- editing a specific row
-- cleaning values
-- cleaning dates
-- dropping duplicates
-- replacing values
-- renaming column names
-### ADVANCED ###
-- binning, slicing and dicing
-- Creating Dummy variables
-- groupingby
-- dealing with empty values
-- joining, merging and concatenation
-- transposing
-- apply methods
+### PIERIAN DATA ###
+**Data input and Output** (Skip SQL)<br>
+Outcomes: Read csv, read excel, read HTML<br>
+** You don't have to install anything.<br>
+:tv: https://drive.google.com/open?id=0B4co3D7kCi9oX2l1MEl6a1B3bDA
 
-## Additional Readings (Very Indepth)
+**DataFrame Pt 1**<br>
+Outcomes: Creating a dataframe, slicing columns, creating new column, dropping rows & Columns, selecting cell.<br>
+:tv: https://drive.google.com/open?id=0B4co3D7kCi9oNjd5U3RBVGJvUE0
 
+**DataFrame Pt 2**<br>
+Outcomes: data filtering<br>
+:tv: https://drive.google.com/open?id=0B4co3D7kCi9oYVlUUjZzbXFLTDA
+
+**Missing Data**<br>
+Outcomes: How to deal with missing values<br>
+:tv: https://drive.google.com/open?id=0B4co3D7kCi9oeUsyeWhaSHJMQ0k
+
+**Merging, Joining & Concatenation**<br>
+Outcomes: Merging Dataframes, Joining Dataframes and Concatenating Dataframes<br>
+:tv: https://drive.google.com/open?id=0B4co3D7kCi9oaFNvMmhKS3gzSTQ
+
+**Pandas Operations**<br>
+Outcomes: Counting occurances, no. of unique values, running a function on all dataframes, sorting values, Pivot tables<br>
+:tv: https://drive.google.com/open?id=0B4co3D7kCi9oQm1vSzczVUcxT0E
+
+**Date & Times** [UFO Data](https://drive.google.com/open?id=0B4co3D7kCi9oN2ltcFNmNzdMTVk)<br>
+Outcomes: Cleaning Date, Cleaning Time, dealing with Date and Time.<br>
+:tv: https://www.youtube.com/watch?v=yCgJGsg0Xa4
+
+**Creating Dummy Variables**<br>
+Outcome: Creating dummy variables [Titanic Dataset](https://drive.google.com/open?id=0B4co3D7kCi9oWHhXdTNvX1RESGM)<br>
+:tv: https://www.youtube.com/watch?v=0s_1IsROgDc
+
+Once you are done with all the videos, do the same thing that you did in [Excel](https://drive.google.com/open?id=0B4co3D7kCi9oT3N1R3BPa083UUE), and try to make it exactly like the desired output. Since it's the first time that you do data cleaning, you may find it extremely hard. Just try your best to do it! 
 
 ---
 
-# Mini Projects
-## Project 1 (Uber Data)
-https://riders.uber.com/trips
-http://ummjackson.github.io/uber-data-extractor/
-https://code.jquery.com/jquery-2.1.3.min.js
-https://medialab.github.io/artoo/public/dist/artoo-latest.min.js
-  
----
-
-
-# External Resources
+# That's all folks #
+## We would be continuing with Data Analytics with Data Visualisation (Tableau) next week! ##
