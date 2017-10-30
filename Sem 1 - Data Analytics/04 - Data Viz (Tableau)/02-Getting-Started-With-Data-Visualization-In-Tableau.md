@@ -4,6 +4,9 @@
 
 1. Go to [https://public.tableau.com/s/](https://public.tableau.com/s/)
 2. Enter your email address and click on **Download the App**
+
+![Tableau Public Download Imgur](https://i.imgur.com/upk7RHu.png)
+
 3. Wait for a couple of minutes to let it download
 4. Follow the installer instructions once you have downloaded and run the installer
 
