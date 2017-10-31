@@ -33,3 +33,9 @@
 Recall from the previous session, we had some data on Michael's Uber journeys? Let's figure out how rich he is with Tableau today P:
 
 PS: We suggest using the cleaned data vs the raw one!
+
+### Tell Me Which Month Michael Spends The Most & How Much?
+
+![Michaels Monthly Spendng Imgur](https://i.imgur.com/gtJVHPM.png)
+
+
