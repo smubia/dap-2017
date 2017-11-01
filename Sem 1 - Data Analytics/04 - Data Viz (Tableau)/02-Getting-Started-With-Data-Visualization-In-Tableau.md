@@ -59,6 +59,11 @@ Try to achieve the following visualizations below
 
 ![Michaels Monthly Trip Relationship Price and Trips Imgur](https://i.imgur.com/vQb2RIA.png)
 
+## What's Next?
+
+1. Play around with the datasets in Tableau such as the Superstore dataset
+2. Explore more about Tableau in the [more resources section](#more-resources)
+
 ### More Resources
 
 - [Tableau's Training Page](https://www.tableau.com/learn/training)
