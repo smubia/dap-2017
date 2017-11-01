@@ -58,3 +58,17 @@ Try to achieve the following visualizations below
 ### How Are The Number of Trips and Spending Related?
 
 ![Michaels Monthly Trip Relationship Price and Trips Imgur](https://i.imgur.com/vQb2RIA.png)
+
+## What's Next?
+
+1. Play around with the datasets in Tableau such as the Superstore dataset
+2. Explore more about Tableau in the [more resources section](#more-resources)
+
+### More Resources
+
+- 🎓 [Tableau's Training Page](https://www.tableau.com/learn/training)
+- 🎓 [Udacity's Course on Data Visualization In Tableau](https://www.udacity.com/course/data-visualization-in-tableau--ud1006)
+- 🎓 [Audit Coursera's Duke University Data Visualization and Communication with Tableau](https://www.coursera.org/learn/analytics-tableau)
+- 📃 [Analytics Vidhya's Getting Started With Tableau](https://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/tableau-learning-path/)
+- 📺 [Tableau Tips Video](https://www.youtube.com/watch?v=boJcT-lerFQ)
+- 📺 [Tableau DIY Video](https://www.youtube.com/watch?v=1BLywLrQUcE&list=PLyD1XCIRA3gQmN73dHwQWr4R08ABZFMtZ)
