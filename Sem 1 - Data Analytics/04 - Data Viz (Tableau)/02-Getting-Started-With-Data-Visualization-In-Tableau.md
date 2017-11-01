@@ -66,7 +66,9 @@ Try to achieve the following visualizations below
 
 ### More Resources
 
-- [Tableau's Training Page](https://www.tableau.com/learn/training)
-- [Analytics Vidhya's Getting Started With Tableau](https://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/tableau-learning-path/)
-- [Udacity's Course on Data Visualization In Tableau](https://www.udacity.com/course/data-visualization-in-tableau--ud1006)
-- [Audit Coursera's Duke University Data Visualization and Communication with Tableau](https://www.coursera.org/learn/analytics-tableau)
+- 🎓 [Tableau's Training Page](https://www.tableau.com/learn/training)
+- 🎓 [Udacity's Course on Data Visualization In Tableau](https://www.udacity.com/course/data-visualization-in-tableau--ud1006)
+- 🎓 [Audit Coursera's Duke University Data Visualization and Communication with Tableau](https://www.coursera.org/learn/analytics-tableau)
+- 📃 [Analytics Vidhya's Getting Started With Tableau](https://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/tableau-learning-path/)
+- 📺 [Tableau Tips Video](https://www.youtube.com/watch?v=boJcT-lerFQ)
+- 📺 [Tableau DIY Video](https://www.youtube.com/watch?v=1BLywLrQUcE&list=PLyD1XCIRA3gQmN73dHwQWr4R08ABZFMtZ)
