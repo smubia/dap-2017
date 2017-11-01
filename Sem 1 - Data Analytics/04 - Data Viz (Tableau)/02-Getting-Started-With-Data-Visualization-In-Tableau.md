@@ -58,3 +58,10 @@ Try to achieve the following visualizations below
 ### How Are The Number of Trips and Spending Related?
 
 ![Michaels Monthly Trip Relationship Price and Trips Imgur](https://i.imgur.com/vQb2RIA.png)
+
+### More Resources
+
+- [Tableau's Training Page](https://www.tableau.com/learn/training)
+- [Analytics Vidhya's Getting Started With Tableau](https://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/tableau-learning-path/)
+- [Udacity's Course on Data Visualization In Tableau](https://www.udacity.com/course/data-visualization-in-tableau--ud1006)
+- [Audit Coursera's Duke University Data Visualization and Communication with Tableau](https://www.coursera.org/learn/analytics-tableau)
