@@ -27,9 +27,9 @@ By the end of this session, you should have accomplished the following:
 
 1. Go to [Tableau Academic License](https://www.tableau.com/academic/students) and sign up
 2. Go to [Oasis](oasis.smu.edu.sg)
-3. Generate your **Degree Progress Report** (follow the pictorial instructions)
+3. Generate your **Unofficial Transcript** (follow the pictorial instructions)
 
-![Oasis Main Page Find Degree Progress Report Imgur](https://i.imgur.com/9a0tmOK.png)
+![Oasis Unofficial Transcript Imgur](https://i.imgur.com/ZS1p24H.png)
 
 4. Obfuscate your GPA etc (optional)
 5. Upload to Tableau and submit
