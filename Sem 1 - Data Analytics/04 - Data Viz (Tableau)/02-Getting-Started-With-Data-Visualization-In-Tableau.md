@@ -25,11 +25,14 @@ By the end of this session, you should have accomplished the following:
 
 ## Getting Your Tableau Educational License
 
-1. Go to _______ and sign up
-2. Go to Oasis
+1. Go to [Tableau Academic License](https://www.tableau.com/academic/students) and sign up
+2. Go to [Oasis](oasis.smu.edu.sg)
 3. Generate your **Degree Progress Report** (follow the pictorial instructions)
+
+[Oasis Main Page Find Degree Progress Report Imgur](https://i.imgur.com/9a0tmOK.png)
+
 4. Obfuscate your GPA etc (optional)
-5. Upload to ________ and submit
+5. Upload to Tableau and submit
 6. Wait for their email confirmation (could take a few days or up to a week plus)
 
 ## Let's Get Started With Tableau!
