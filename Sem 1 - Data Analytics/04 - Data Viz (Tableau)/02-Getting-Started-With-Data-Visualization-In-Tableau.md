@@ -1,5 +1,11 @@
 # Getting Started With Data Visualization In Tableau
 
+By the end of this session, you should have accomplished the following:
+-[ ] Installed Tableau Public
+-[ ] Applied for Tableau Professional Student License
+-[ ] Registered for a Tableau Account
+-[ ] Created a simple data visualization on Tableau with *any dataset*
+
 ## Install Tableau Public
 
 1. Go to [https://public.tableau.com/s/](https://public.tableau.com/s/)
@@ -34,8 +40,18 @@ Recall from the previous session, we had some data on Michael's Uber journeys? L
 
 PS: We suggest using the cleaned data vs the raw one!
 
+### What's Next?
+
+Try to achieve the following visualizations below
+
 ### Tell Me Which Month Michael Spends The Most & How Much?
 
 ![Michaels Monthly Spendng Imgur](https://i.imgur.com/gtJVHPM.png)
 
+### How Many Trips Does Michael Make In A Month?
 
+![Michaels Monthly Trips Imgur](https://i.imgur.com/Ob4xuWx.png)
+
+### How Are The Number of Trips and Spending Related?
+
+![Michaels Monthly Trip Relationship Price and Trips Imgur](https://i.imgur.com/vQb2RIA.png)
