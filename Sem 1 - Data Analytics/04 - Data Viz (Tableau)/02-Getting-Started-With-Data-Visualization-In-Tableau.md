@@ -1,10 +1,10 @@
 # Getting Started With Data Visualization In Tableau
 
 By the end of this session, you should have accomplished the following:
--[ ] Installed Tableau Public
--[ ] Applied for Tableau Professional Student License
--[ ] Registered for a Tableau Account
--[ ] Created a simple data visualization on Tableau with *any dataset*
+- [ ] Installed Tableau Public
+- [ ] Applied for Tableau Professional Student License
+- [ ] Registered for a Tableau Account
+- [ ] Created a simple data visualization on Tableau with *any dataset*
 
 ## Install Tableau Public
 
