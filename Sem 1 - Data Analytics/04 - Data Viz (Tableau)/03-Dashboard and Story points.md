@@ -7,7 +7,7 @@ Here are some of the key concepts that you would be learning:
 - [ ] Linking databases within Tableau 
 - [ ] Creating Calculated fields
 - [ ] Designing an effective & interactive dashboard
-- [ ] Creating a storypoint
+- [ ] Creating story points
 
 
 
