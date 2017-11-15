@@ -1,4 +1,4 @@
-## Hello Beautiful People!  
+ï»¿## Hello Beautiful People!  
 Time flies and we have come to the end of the semester. In our last Co-learning Session for this semester, you will be learning some fundamental functions in Tableau, ways to create an interactive dashboard and convey information effectively through a story! 
 
 
@@ -111,7 +111,7 @@ https://drive.google.com/open?id=1tjC1TDx8sDnc8snUfzE-lp8_2ZTzAt4i
 :blue_book: https://drive.google.com/open?id=17dzpEZ9_FSD0BmHeJ5cdcfGi-K4lwrqW
 
 ## Mini Challenge: Build a Story to Present  
-Now that you have learnt the fundamentals and ways to create an interactive dashboard, it¡¦s  time to piece together what you have learnt so far by building a story using the Superstore sample data built in Tableau Desktop as shown in the image below.
+Now that you have learnt the fundamentals and ways to create an interactive dashboard, itâ€™s  time to piece together what you have learnt so far by building a story using the Superstore sample data built in Tableau Desktop as shown in the image below.
 
 ![Alt Text](https://image.ibb.co/mzZ8dR/superstore.jpg)
 
