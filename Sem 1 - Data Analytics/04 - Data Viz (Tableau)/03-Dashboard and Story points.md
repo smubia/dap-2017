@@ -97,8 +97,7 @@ https://drive.google.com/open?id=15mDz9VUhxQsnEbQJkEGzWEVdTsneeiKA
 
 :blue_book: https://drive.google.com/open?id=1YKwSVfyIxAqNwwEHjKkRelqi6YmmNv-C
 
-:tv:  3. Dashboard Formatting
-
+:tv:  3. Dashboard Formatting https://drive.google.com/open?id=1BSnUSi4Fo4xXweshDUU-TTH7j5ffDCDX
 
 :blue_book: https://drive.google.com/open?id=1PkVMAH6E8nLRoOQjOYCcGJXaIAI7i6JG
 
