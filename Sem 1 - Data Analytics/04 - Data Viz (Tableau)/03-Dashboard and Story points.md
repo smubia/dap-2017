@@ -1,6 +1,6 @@
 ﻿## Hello Beautiful People!  
  
-*Prepared by: Sofia Kung, Core Team 17*u
+*Prepared by: Sofia Kung, Core Team 17*
  
 Time flies and we have come to the end of the semester. In our last Co-learning Session for this semester, you will be learning some fundamental functions in Tableau, techniques to create an interactive dashboard and ways convey information effectively through a story! 
 
