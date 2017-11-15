@@ -40,8 +40,7 @@ https://drive.google.com/open?id=1MnEPhZaffGQ1pkThMpwNvQXR7BSW7FbT
 
 :blue_book: https://drive.google.com/open?id=1iD67vL3TorcyhT3GLjrpkkbR9P1qoSg2
 
-:tv:  3. Additional Data Blending Topics
-https://drive.google.com/open?id=1EfqxknEMd_CjcEbTgWI8hly2-_unCWs
+:tv:  3. Additional Data Blending Topics https://drive.google.com/open?id=1QT0SjwSYgdDMLQh9BOGTLq-kbU_Zb0qY
 
 :blue_book: https://drive.google.com/open?id=1ol1NcUznfy9RzWOeG9DJPPXNqDJ9vxm4
 
