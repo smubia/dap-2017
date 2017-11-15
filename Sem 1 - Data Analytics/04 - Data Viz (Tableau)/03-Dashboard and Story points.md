@@ -6,7 +6,7 @@ Here are some of the key concepts that you would be learning:
 - [ ] Join types with union
 - [ ] How to link databases within Tableau 
 - [ ] Calculated fields
-- [ ] How to create an effective & interactive dash board
+- [ ] How to create an effective & interactive dashboard
 - [ ] Creating a storypoint
 
 
@@ -26,7 +26,7 @@ Here are some of the key concepts that you would be learning:
 :tv:  1. Join Types with Union
 https://drive.google.com/open?id=1atgsDrPbe5CbMV0XGC7XtIqLQNRdhi0z
 
-:tv:  2. Cross-database Joins
+:tv:  2. Cross-Database Joins
 https://drive.google.com/open?id=1DovVN5kmoDNfv2PPDmVbLRFe6fxdLAbc
 
 :blue_book: https://drive.google.com/open?id=1ORoXh-G2WKM7abJbHLhRxUAK4cFRemE7
@@ -99,7 +99,7 @@ https://drive.google.com/open?id=15mDz9VUhxQsnEbQJkEGzWEVdTsneeiKA
 
 :blue_book: https://drive.google.com/open?id=1PkVMAH6E8nLRoOQjOYCcGJXaIAI7i6JG
 
-:tv:  4. Device Designer- creating the optimal view of tableau on different platforms
+:tv:  4. Device Designer
 https://drive.google.com/open?id=1tjC1TDx8sDnc8snUfzE-lp8_2ZTzAt4i
 
 :blue_book: https://drive.google.com/open?id=1U_0SAsrwF6NI0_wzJB_aD3enypEh451Q
@@ -113,7 +113,7 @@ https://drive.google.com/open?id=1tjC1TDx8sDnc8snUfzE-lp8_2ZTzAt4i
 :blue_book: https://drive.google.com/open?id=17dzpEZ9_FSD0BmHeJ5cdcfGi-K4lwrqW
 
 ## Mini Challenge: Build a Story to Present  
-Now that you have learnt the fundamentals and ways to create an interactive dashboard, it’s  time to piece together what you have learnt so far by building a story using the Superstore sample data built in Tableau Desktop as shown in the image below.
+Now that you have learnt the fundamentals and ways to create an interactive dashboard, it’s  time to piece together what you have learnt so far by building a story using the built in Superstore sample data in Tableau Desktop as shown in the image below.
 
 ![Alt Text](https://image.ibb.co/mzZ8dR/superstore.jpg)
 
