@@ -1,5 +1,5 @@
 ﻿## Hello Beautiful People!  
-Time flies and we have come to the end of the semester. In our last Co-learning Session for this semester, you will be learning some fundamental functions in Tableau, ways to create an interactive dashboard and convey information effectively through a story! 
+Time flies and we have come to the end of the semester. In our last Co-learning Session for this semester, you will be learning some fundamental functions in Tableau, techniques to create an interactive dashboard and ways convey information effectively through a story! 
 
 
 Here are some of the key concepts that you would be learning: 
@@ -37,7 +37,7 @@ https://drive.google.com/open?id=1MnEPhZaffGQ1pkThMpwNvQXR7BSW7FbT
 :blue_book: https://drive.google.com/open?id=1iD67vL3TorcyhT3GLjrpkkbR9P1qoSg2
 
 :tv:  3. Additional Data Blending Topics
-https://drive.google.com/open?id=1EfqxknEMd_CjcEbTgWI8hly2-_unCWs_
+https://drive.google.com/open?id=1MnEPhZaffGQ1pkThMpwNvQXR7BSW7FbT
 
 :blue_book: https://drive.google.com/open?id=1ol1NcUznfy9RzWOeG9DJPPXNqDJ9vxm4
 
@@ -45,25 +45,28 @@ https://drive.google.com/open?id=1EfqxknEMd_CjcEbTgWI8hly2-_unCWs_
 ### Perform Calculation in Tableau 
 :tv:  1. Intro to Calculations in Tableau  
 https://drive.google.com/open?id=1szX47ectoQyW3_1Zpz14KKvcWQb11mq-
+
 :blue_book: https://drive.google.com/open?id=1ggzvH5RYxLfx0iO7hJugONL5Fx3XD1v8
 
-:tv:  2. Creating Calculated Field 
+:tv:  2. Table Calculation
 https://drive.google.com/open?id=1OAXEBDhvrJo9WUrIFK_aDzCiteWkYNie
 
 :blue_book: https://drive.google.com/open?id=14yM8y8DlDi4GdUismXcicuD6Qs4xEQZT
 
 ## Group, Sort and Filter with Tableau 
 
-:tv:  2. Creating Sets  
-https://drive.google.com/open?id=1zj-Dt_5TOvC2htX5Zjz1CnYq90degrlz
+:tv:  1. Creating Sets  
+https://drive.google.com/open?id=1nd9ErTCqPHNZwB2cZxHw1yKpFtR2kfia
 
 :blue_book: https://drive.google.com/open?id=1DrB3BjkEjTOT-a947ibGJiP7qJbDTg5v
 
-tv:  2. Grouping
+:tv:  2. Grouping
 https://drive.google.com/open?id=1hw0zTYGSytslx8IfxgwTZpUI-Vep5hbl
 
 :blue_book: https://drive.google.com/open?id=1_zNWv7DlXvLEF0XoXjB4wE54dvK2a94t
-:tv:  3. Sorting https://drive.google.com/open?id=1KBSiak1VJQ2DDLO8tK6IPmW42doMWK98
+
+:tv:  3. Sorting 
+https://drive.google.com/open?id=1KBSiak1VJQ2DDLO8tK6IPmW42doMWK98
 
 :blue_book: https://drive.google.com/open?id=1zj-Dt_5TOvC2htX5Zjz1CnYq90degrlz
 
@@ -79,18 +82,17 @@ https://drive.google.com/open?id=1WLVF5_ljTMSc2i-hK8D6PJ8f3Y4LadtT
 
 ## Building an Dashboard 
 
-:page_with_curl: [Building an Effective Dashboard](https://www.tableau.com/sites/default/files/whitepapers/building_effective_dashboards.pdf)
+:page_with_curl: [10 Best Practices for Building Effective Dashboards](https://www.tableau.com/sites/default/files/whitepapers/building_effective_dashboards.pdf)
 
 :tv:  1. Building a dashboard
 https://drive.google.com/open?id=1y4FP_-aHH4c_DAAY_mCvGsacjnPWsBwL
-
 
 :blue_book: https://drive.google.com/open?id=11LDV9JmtuNxA8ZQDLcbW0jgR1o2Q_4TH
 
 :tv:  2. Dashboard objects
 https://drive.google.com/open?id=15mDz9VUhxQsnEbQJkEGzWEVdTsneeiKA
 
-:blue_book: https://drive.google.com/open?id=1PkVMAH6E8nLRoOQjOYCcGJXaIAI7i6JG
+:blue_book: https://drive.google.com/open?id=1YKwSVfyIxAqNwwEHjKkRelqi6YmmNv-C
 
 :tv:  3. Dashboard Formatting
 https://drive.google.com/open?id=15mDz9VUhxQsnEbQJkEGzWEVdTsneeiKA
@@ -104,7 +106,7 @@ https://drive.google.com/open?id=1tjC1TDx8sDnc8snUfzE-lp8_2ZTzAt4i
 
 :tv:  5. Dashboard interactivity using actions https://drive.google.com/open?id=1YHYuTZRXrvXt-phzNPR_XijzyktyNoMW
 
-:blue_book: https://drive.google.com/open?id=1n0AxeuJ6g4sEDKcSN_JTuHI6sG0baBug
+:blue_book: https://drive.google.com/open?id=1-ov_H9UvYwxBlj_CDyvoIAtmJVK8LBVZ
 
 :tv:  6. Story Points https://drive.google.com/open?id=1ybU_MD-qpUOpbFIknlk3mf8NJdBOael9
 
