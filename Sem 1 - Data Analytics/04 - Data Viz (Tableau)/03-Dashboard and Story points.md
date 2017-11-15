@@ -4,9 +4,9 @@ Time flies and we have come to the end of the semester. In our last Co-learning 
 
 Here are some of the key concepts that you would be learning: 
 - [ ] Join types with union
-- [ ] How to link databases within Tableau 
-- [ ] Calculated fields
-- [ ] How to create an effective & interactive dashboard
+- [ ] Linking databases within Tableau 
+- [ ] Crating Calculated fields
+- [ ] Creating an effective & interactive dashboard
 - [ ] Creating a storypoint
 
 
