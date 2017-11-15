@@ -83,7 +83,7 @@ https://drive.google.com/open?id=1WLVF5_ljTMSc2i-hK8D6PJ8f3Y4LadtT
 
 :blue_book: https://drive.google.com/open?id=1U2MHvDjg4SR-25FKFMLiZdDcvbB7hjCK 
 
-## Building an Dashboard 
+## Building a Dashboard 
 
 :page_with_curl: [10 Best Practices for Building Effective Dashboards](https://www.tableau.com/sites/default/files/whitepapers/building_effective_dashboards.pdf)
 
