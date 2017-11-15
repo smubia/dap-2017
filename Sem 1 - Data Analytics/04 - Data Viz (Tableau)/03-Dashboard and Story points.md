@@ -42,7 +42,7 @@ https://drive.google.com/open?id=1MnEPhZaffGQ1pkThMpwNvQXR7BSW7FbT
 :blue_book: https://drive.google.com/open?id=1ol1NcUznfy9RzWOeG9DJPPXNqDJ9vxm4
 
 
-### Perform Calculation in Tableau 
+## Perform Calculation in Tableau 
 :tv:  1. Intro to Calculations in Tableau  
 https://drive.google.com/open?id=1szX47ectoQyW3_1Zpz14KKvcWQb11mq-
 
