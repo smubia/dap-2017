@@ -27,9 +27,76 @@ Labels used:
 ### What is a Notebook?
 A Notebook is a Jupyter notebook that is viewed in the Jupyter nbviewer, to walk readers through code usage. 
 
+## Learning Paths
+**
+As BIA co-learning content is constantly being worked on, there is a high chance that intra-repo linking will break. <br/>
+Please use the file directory to navigate to your desired content for the time being.
+** 
+
 
 ## Contributing & Style Guide
-### Heading Styles
+
+### Template
+Each new markdown file follows the following structure:
+
+```markdown
+# Title_GOES_HERE
+*Written by: YOUR_NAME_HERE, Core Team 17*
+
+## Welcome Message
+A welcoming welcome message!
+
+- [ ] Goal 1
+- [ ] Goal 2
+- [ ] Goal 3
+- [ ] Goal etc
+
+## Before we get started
+Some tips and tricks and things to watch out.
+
+## Getting Started
+### Learning Tips
+- Watch in 1.25x or 1.5x speed to save time
+
+### Icon Quick Reference 
+
+:tv: = Video
+
+:page_with_curl: = Article / Website / Book
+
+:mortar_board: = Online Course
+
+:warning: = Warning! There might be some pre-requisite knowledge!
+
+## Topic A
+
+```
+
+### Listing Content
+
+There are two styles used in this repo:
+1. The quick and dirty (as pioneered by Michael, Core Team '17)
+
+```markdown
+:tv: https://www.put_your_very_long_url_over_here.com<br/>
+:page_with_curl: https://www.put_your_very_long_url_over_here.com<br/>
+:mortar_board: https://www.put_your_very_long_url_over_here.com<br/>
+:warning: https://www.put_your_very_long_url_over_here.com<br/>
+
+```
+
+2. The hardworking  (as recommended by Tze Yiing, Core Team '17)
+
+```markdown
+:tv: [Author or Organisation - Title of Content](https://www.put_your_very_long_url_over_here.com)<br/>
+:page_with_curl: [Author or Organisation - Title of Content](https://www.put_your_very_long_url_over_here.com)<br/>
+:mortar_board: [Author or Organisation - Title of Content](https://www.put_your_very_long_url_over_here.com)<br/>
+:warning: [Author or Organisation - Title of Content](https://www.put_your_very_long_url_over_here.com)<br/>
+
+```
+
+<!-- 
+#### Heading Styles
 - 1st Headers (#) are to be the title of the guide.
 - 2nd Headers (##) are to be subsections of the guide.
 - 3rd and 4th Headers (### or more) are to be relevant questions pertaining to the subsection.
@@ -39,7 +106,7 @@ A Notebook is a Jupyter notebook that is viewed in the Jupyter nbviewer, to walk
         - What is Numpy?
         - What is the Data Science Process and how is it applied?
 
-### Quotations
+#### Quotations
 All quotations are to be cited with relevant links from where the material was obtained. 
 
 For example, a book:
@@ -91,4 +158,5 @@ For example:
 >   - [Cool stuff - Really Cool](#)
 >- Optional Readings
 >   - [Really Tough stuff - Tough Topic](#)
->   - [Tough as in like - Super tough](#)
+>   - [Tough as in like - Super tough](#) -->
+

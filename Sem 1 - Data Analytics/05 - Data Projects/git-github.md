@@ -1,4 +1,5 @@
-# Knowledge Checklist to learning how to use Git and Github
+# Learning how to use Git and Github
+*Written by: YOUR_NAME_HERE, Core Team 17*
 
 ## What is Version Control?
 > Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later.
