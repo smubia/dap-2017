@@ -109,6 +109,8 @@ I hope you enjoyed learning about it my fellow warriors as it was a rich and fun
 ## Next Section
 Once you've understood the key concepts introduced in this section, proceed on to the next section.
 
+You can use our resource to decide which chart to use [here](https://goo.gl/tt6kfp)
+
 SMU-BIA
 
 Vikram Sanghi
